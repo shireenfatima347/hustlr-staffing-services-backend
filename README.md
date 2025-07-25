@@ -18,3 +18,14 @@ The API is built using Node.js and Express and simulates a product management sy
 
 ## How to run
 Run the project locally with:
+
+API runs on `http://localhost:3000`
+
+---
+
+## API Endpoints
+- `GET /products`
+- `GET /products/:id`
+- `GET /products?category=Apparel`
+- `POST /products` (optional)
+
